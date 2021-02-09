@@ -1,2 +1,2 @@
 # weather-scraper-PHP
-Get weather forecast using this simple weather scraper.
+weather forecast without any weather forecasting api.
